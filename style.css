@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+.head{
+    background-color: rgb(44, 2, 20);
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    height:10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height==line-height : text will be at centre */
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:3rem;
+    margin-top: 5rem;
+
+    
+}
+.imag{
+    /* height: 50px;
+   width: 50px; */
+    height: 165px;
+    width: 165px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 2rem; */
+
+}
+img{
+     height: 156px;
+    width: 156px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+/* img:hover{
+    border: 2px solid black;
+    opacity: 0.5;
+    cursor: pointer;
+    
+} */
+ .imag:hover{
+    background-color: rgb(44, 2, 20);
+
+ }
+ img:hover{
+    cursor: pointer;
+    opacity: 0.8;
+
+ }
+ .score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    gap:5rem;
+    margin-top: 3rem;
+
+
+
+ }
+ .pick{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+#mess{
+   background-color: rgb(44, 2, 20);;
+    color: aliceblue;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 2rem;
+ }
+
+ #user,#computer{
+    font-size: 4rem;
+ }
+ .val p{
+    text-align: center;
+    
+ }
