@@ -1,7 +1,7 @@
 
- # ✊🖐✌️ Rock Paper Scissors Game
+ # ✊🖐✌️ Rock Paper Scissor Game
 
-A fun and interactive Stone-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript**.
+A fun and interactive Stone-Paper-Scissor game built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
@@ -14,7 +14,7 @@ A fun and interactive Stone-Paper-Scissors game built using **HTML**, **CSS**, a
 ---
 
 ## 🎮 How to Play
-Click one of the buttons (Rock, Paper, or Scissors), and see what the computer picks. Best of luck!
+Click one of the buttons (Rock, Paper, or Scissor), and see what the computer picks. Best of luck!
 
 ---
 
