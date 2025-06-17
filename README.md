@@ -3,6 +3,7 @@
 
 A fun and interactive Stone-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript**.
 
+
 ## 🚀 Features
 - 🎮 Player vs Computer mode
 - 🎲 Random computer choices
@@ -28,7 +29,7 @@ Click one of the buttons (Rock, Paper, or Scissors), and see what the computer p
 ## 🌐 Live Demo
 [Click here to play](https://parmardipika.github.io/Rock_Paper_Scissor-Game/)
 
-
-Made with ❤️ by Dipika Parmar
+---
+**Made with ❤️ by Dipika Parmar**
 
 
